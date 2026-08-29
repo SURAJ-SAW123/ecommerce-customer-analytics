@@ -52,4 +52,5 @@ Run all cells from the top. The notebook reads `../data/online_retail_II.csv` an
 
 ## Author
 SURAJ SAW
+Electrical and Electronics Engineering
 Birla Institute Of Technology MESRA
